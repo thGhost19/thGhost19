@@ -1,76 +1,63 @@
-# 👻 **thGhost19** 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=thGhost19&color=blueviolet&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/thGhost19?style=flat-square)](https://github.com/thGhost19?tab=followers)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Érick+Vinicius+👻;I'm+20+years+old;I+from+Brasil,+RS;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Bem-vindo ao meu repositório! Sou um entusiasta da tecnologia e um eterno aprendiz, explorando o mundo do desenvolvimento, inovação e tecnologia. 🌟
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thGhost19&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ThGhost19 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thGhost19&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thGhost19&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-## 🚀 Sobre Mim
+<div align="center">  
+ <a href = "mailto:viniciuserick1029@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/erickvsalmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+### 🚀 Sobre Mim
 - 🔭 Atualmente estou trabalhando em projetos que combinam **React** e **API C#**.
 - 🌱 Sempre aprendendo algo novo! Atualmente focado em **React**, **React Nativo** e **Docker**.
 - 🎯 Objetivo: criar ferramentas que impactem positivamente o mundo.
 - 🕹️ Fã de jogos e projetos criativos que unem **design** e **código**.
+<br/>
+  
 
----
+### skills:
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![CSharp](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens**:  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
-  ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
-- **Frameworks e Bibliotecas**:  
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)  
-  ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white&style=flat-square)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)  
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+### Other Knowledge:
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+  
+### Studying in this moment:
 
-- **Back-end**:  
-  ![SignalR](https://img.shields.io/badge/-SignalR-4C6EF5?logo=microsoft&logoColor=white&style=flat-square)  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-
-- **Cloud e Infraestrutura**:  
-  ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)  
-  ![Cloud](https://img.shields.io/badge/-Cloud_Services-3C8DBC?logo=icloud&logoColor=white&style=flat-square)
-
-- **Outros**:  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
-
----
-
-## 📈 Estatísticas GitHub
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thGhost19&layout=compact&theme=radical" alt="Top Langs" />
+<br>
+  <p align="centre">⭐ "A tecnologia é apenas uma ferramenta; o impacto depende de como a usamos."</p>
+  <p align="center">Se gostou do meu trabalho, sinta-se à vontade para dar uma ⭐ nos repositórios que você curtir!</p>  
+<br>
 </div>
 
----
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thGhost19&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thGhost19&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{thGhost19}/count.svg" /></p> 
+<br></div>
+  
 
----
-
-## 📫 Entre em Contato
-- **E-mail**: [viniciuserick1029@gmail.com](mailto:viniciuserick1029@gmail.com)  
-- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/erickvsalmeida/)
-
----
-
-⭐ **"A tecnologia é apenas uma ferramenta; o impacto depende de como a usamos."**  
-Se gostou do meu trabalho, sinta-se à vontade para dar uma ⭐ nos repositórios que você curtir!
-
----
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/thGhost19/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
